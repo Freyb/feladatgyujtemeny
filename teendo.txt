@@ -1,0 +1,13 @@
+- feladatokat áttenni a megfelelő helyre
+- képekre ügyelni, azok is menjenek
+- mintamegoldás törölhető mindenhonnan
+
+- pythonban értelmetlen feladat mehet a kukába:
+   kuka-atgondolando  (menthetőnek tűnő, át kell fogalmazni, ilyesmi)
+   kuka-nemjo  (abszolút semmi értelme pythonban)
+
+- fontosabbak, amilyen sorrenben kéne:
+  c-vezerlesiszerk 
+  c-boole-tomb
+  c-pointer-sztring 
+  c-fuggveny-struct

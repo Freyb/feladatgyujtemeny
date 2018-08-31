@@ -1,0 +1,3 @@
+beginslide = <h2>
+<h3> = <h3>
+gyakdia::h3 = <h3>, csak taggelheto
